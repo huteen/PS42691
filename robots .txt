@@ -1,0 +1,13 @@
+User-Agent: *
+Allow: /
+Allow: /*.js$
+Allow: /*.css$
+Allow: /
+Allow: /ads/preferences/
+Allow: /gpt/
+Allow: /pagead/show_ads.js
+Allow: /pagead/js/adsbygoogle.js
+Allow: /pagead/js/*/show_ads_impl.js
+Allow: /static/glade.js
+Allow: /static/glade/
+Sitemap: http://www.huteenstore.xyz/sitemaps.xml
